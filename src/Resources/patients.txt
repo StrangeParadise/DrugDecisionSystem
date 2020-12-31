@@ -1,0 +1,7 @@
+1 Zoran Lang 23 78.5
+2 Donald Trump 74 110.0
+3 Scott Morrison 52 77.0
+4 Elon Musk 49 93.0
+5 Shaquille O'Neal 48 147.0
+6 Sponge Bob 15 50.4
+7 Santa Claus 80 77.2

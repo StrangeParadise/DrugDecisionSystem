@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrugDecisionSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DrugDecisionSystem_jar</output-path>
+    <root id="archive" name="DrugDecisionSystem.jar">
+      <element id="module-output" name="DrugDecisionSystem" />
+    </root>
+  </artifact>
+</component>
