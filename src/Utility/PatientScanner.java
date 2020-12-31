@@ -1,3 +1,5 @@
+// Written by Zoran Lang, 31 Dec 2020.
+// This is a scanner class to read patients info from a text file.
 package Utility;
 
 import Pojo.Patient;

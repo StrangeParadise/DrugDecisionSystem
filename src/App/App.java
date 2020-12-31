@@ -1,3 +1,5 @@
+// Written by Zoran Lang, 31 Dec 2020.
+// This is the main entrance of this program.
 package App;
 import Pojo.Patient;
 import Utility.DecisionWriter;

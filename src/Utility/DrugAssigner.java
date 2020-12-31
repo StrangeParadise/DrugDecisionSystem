@@ -1,3 +1,5 @@
+// Written by Zoran Lang, 31 Dec 2020.
+// This is the business logic class for assigning drugs.
 package Utility;
 
 import Pojo.Drug;

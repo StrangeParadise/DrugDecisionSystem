@@ -1,3 +1,5 @@
+// Written by Zoran Lang, 31 Dec 2020.
+// This is a plain old java object for Drug.
 package Pojo;
 
 public class Patient {

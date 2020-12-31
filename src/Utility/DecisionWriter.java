@@ -1,3 +1,5 @@
+// Written by Zoran Lang, 31 Dec 2020.
+// This is a writer class used for generating a result text file.
 package Utility;
 
 import Pojo.Patient;
