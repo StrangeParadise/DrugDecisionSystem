@@ -8,6 +8,11 @@
 3. Direct to **"DrugDecisionSystem/out/artifacts/DrugDecisionSystem_jar"** on your bash or powershell.
 4. Type in **"java -jar DrugDecisionSystem.jar patients.txt"**, this will generate the resulting file named **"decisions.txt"**.
 5. Open **"decisions.txt"** in **"DrugDecisionSystem/out/artifacts/DrugDecisionSystem_jar"** to see the drug decisions.
+6. Feel free to modify the **"patients.txt"** file in **"DrugDecisionSystem/out/artifacts/DrugDecisionSystem_jar"** then run the program again to see the corresponding changes in the **"decisions.txt"** file.
+
+**Alternativly**,
+
+Import this project to your Intellij IDE, add application configurations with valid input arguments(in this case, patients.txt), then run it through the IDE.
 
 ## Assumptions made
 1. I assume each patient has a patientID to distinguish cases like name duplication.
