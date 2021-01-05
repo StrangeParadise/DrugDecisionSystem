@@ -16,8 +16,8 @@
 
 PatientID | FirstName | LastName | Age | Weight
 --------- | --------- | -------- | --- | ------
-
-4. I made the layout for each row of the output text file as:
+4. I assume all the input information is in a valid range.
+5. I made the layout for each row of the output text file as:
 
 Patient Name | Age | Weight | Random Number | Allocation Group | Drug Name
 ------------ | --- | ------ | ------------- | ---------------- | ---------
